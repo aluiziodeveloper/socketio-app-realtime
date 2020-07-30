@@ -1,0 +1,12 @@
+#header {
+  height: 230px;
+  background: url(../images/photo.jpg) center /cover;
+}
+
+table {
+  margin-bottom: 20px;
+}
+
+table, .mdl-card, .mdl-textfield {
+  width: 100%;
+}
